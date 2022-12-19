@@ -3,7 +3,7 @@
 <p><em>they/them</em></p>
 <p> 👋  I'm a graphic designer and soon to be frontend developer in Washington, D.C.</p>
 <p> 💻  I'm interested in building tools that help connect people and UX/UI design. For fun, I make games!</p>
-<p>I'm passionate about accessibility and intersectionality in design in print and for the web.</p>
+<p>I'm passionate about accessibility and intersectionality in design for print and the web.</p>
 <p> 💞️ Hobbies: Illustration and Dungeons & Dragons</p> 
 <h2>Socials</h2>
 <ul>
