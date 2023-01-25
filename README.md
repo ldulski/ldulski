@@ -2,9 +2,9 @@
 <h1>Hey, I'm Logan</h1>
 <p><em>they/them</em></p>
 <p> 👋  I'm a graphic designer and soon to be frontend developer in Washington, D.C.</p>
-<p> 💻  I'm interested in building tools that help connect people and UX/UI design. For fun, I make games!</p>
-<p>I'm passionate about accessibility and intersectionality in design for print and the web.</p>
-<p> 💞️ Hobbies: Illustration and Dungeons & Dragons</p> 
+<p> 💻  I'm interested in building tools that help connect people and design. </p>
+<p> 🪄 I'm passionate about accessibility and intersectionality in design for print and the web.</p>
+<p> 💞️ Hobbies: Illustration, gaming, & sound design</p> 
 <h2>Socials</h2>
 <ul>
 <li><a href="https://logandulski.myportfolio.com/" target="_blank">Portfolio</a></li>
