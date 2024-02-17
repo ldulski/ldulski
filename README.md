@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/gdes-220/image/upload/v1671576792/Portfolio_Images/Behance_Banner3-01_qfqrly.jpg">
+
 <h1>Hey, I'm Logan</h1>
 <p><em>they/them</em></p>
 <p> 👋  I'm a graphic designer and soon to be frontend developer in Washington, D.C.</p>
